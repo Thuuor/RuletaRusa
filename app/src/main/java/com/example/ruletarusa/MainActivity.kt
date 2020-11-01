@@ -19,5 +19,5 @@ class MainActivity : AppCompatActivity() {
         val reload = findViewById(R.id.button7) as Button
 
     }
-
+/**/
 }
